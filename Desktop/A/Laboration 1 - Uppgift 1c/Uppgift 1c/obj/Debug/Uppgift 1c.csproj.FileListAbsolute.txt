@@ -1,0 +1,12 @@
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Uppgift 1c\Uppgift 1c\bin\Debug\Uppgift 1c.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Uppgift 1c\Uppgift 1c\obj\Debug\Uppgift 1c.csprojResolveAssemblyReference.cache
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Uppgift 1c\Uppgift 1c\bin\Debug\Uppgift 1c.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Uppgift 1c\Uppgift 1c\bin\Debug\Uppgift 1c.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Uppgift 1c\Uppgift 1c\obj\Debug\Uppgift 1c.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Uppgift 1c\Uppgift 1c\obj\Debug\Uppgift 1c.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1c\Uppgift 1c\bin\Debug\Uppgift 1c.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1c\Uppgift 1c\obj\Debug\Uppgift 1c.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1c\Uppgift 1c\obj\Debug\Uppgift 1c.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1c\Uppgift 1c\bin\Debug\Uppgift 1c.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1c\Uppgift 1c\bin\Debug\Uppgift 1c.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1c\Uppgift 1c\obj\Debug\Uppgift 1c.csprojResolveAssemblyReference.cache

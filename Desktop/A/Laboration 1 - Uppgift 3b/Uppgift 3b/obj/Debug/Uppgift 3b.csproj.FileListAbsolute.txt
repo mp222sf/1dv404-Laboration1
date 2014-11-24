@@ -1,0 +1,18 @@
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Uppgift 3b\Uppgift 3b\bin\Debug\Uppgift 3b.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Uppgift 3b\Uppgift 3b\bin\Debug\Uppgift 3b.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Uppgift 3b\Uppgift 3b\bin\Debug\Uppgift 3b.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Uppgift 3b\Uppgift 3b\obj\Debug\Uppgift 3b.csprojResolveAssemblyReference.cache
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Uppgift 3b\Uppgift 3b\obj\Debug\Uppgift 3b.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Uppgift 3b\Uppgift 3b\obj\Debug\Uppgift 3b.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 3a\Uppgift 3b\bin\Debug\Uppgift 3b.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 3a\Uppgift 3b\obj\Debug\Uppgift 3b.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 3a\Uppgift 3b\obj\Debug\Uppgift 3b.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 3a\Uppgift 3b\bin\Debug\Uppgift 3b.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 3a\Uppgift 3b\bin\Debug\Uppgift 3b.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 3a\Uppgift 3b\obj\Debug\Uppgift 3b.csprojResolveAssemblyReference.cache
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 3b\Uppgift 3b\bin\Debug\Uppgift 3b.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 3b\Uppgift 3b\obj\Debug\Uppgift 3b.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 3b\Uppgift 3b\obj\Debug\Uppgift 3b.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\Iterativ Mjukvaruutveckling\Laboration 1 - Uppgift 3b\Uppgift 3b\bin\Debug\Uppgift 3b.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\Iterativ Mjukvaruutveckling\Laboration 1 - Uppgift 3b\Uppgift 3b\obj\Debug\Uppgift 3b.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\Iterativ Mjukvaruutveckling\Laboration 1 - Uppgift 3b\Uppgift 3b\obj\Debug\Uppgift 3b.pdb

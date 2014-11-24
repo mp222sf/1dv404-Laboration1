@@ -1,0 +1,12 @@
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Iterativ Mjukvareutveckling U1b\Iterativ Mjukvareutveckling U1b\bin\Debug\Iterativ Mjukvareutveckling U1b.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Iterativ Mjukvareutveckling U1b\Iterativ Mjukvareutveckling U1b\obj\Debug\Iterativ Mjukvareutveckling U1b.csprojResolveAssemblyReference.cache
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Iterativ Mjukvareutveckling U1b\Iterativ Mjukvareutveckling U1b\bin\Debug\Iterativ Mjukvareutveckling U1b.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Iterativ Mjukvareutveckling U1b\Iterativ Mjukvareutveckling U1b\bin\Debug\Iterativ Mjukvareutveckling U1b.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Iterativ Mjukvareutveckling U1b\Iterativ Mjukvareutveckling U1b\obj\Debug\Iterativ Mjukvareutveckling U1b.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Iterativ Mjukvareutveckling U1b\Iterativ Mjukvareutveckling U1b\obj\Debug\Iterativ Mjukvareutveckling U1b.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1b\Iterativ Mjukvareutveckling U1b\bin\Debug\Iterativ Mjukvareutveckling U1b.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1b\Iterativ Mjukvareutveckling U1b\obj\Debug\Iterativ Mjukvareutveckling U1b.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1b\Iterativ Mjukvareutveckling U1b\obj\Debug\Iterativ Mjukvareutveckling U1b.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1b\Iterativ Mjukvareutveckling U1b\bin\Debug\Iterativ Mjukvareutveckling U1b.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1b\Iterativ Mjukvareutveckling U1b\bin\Debug\Iterativ Mjukvareutveckling U1b.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1b\Iterativ Mjukvareutveckling U1b\obj\Debug\Iterativ Mjukvareutveckling U1b.csprojResolveAssemblyReference.cache

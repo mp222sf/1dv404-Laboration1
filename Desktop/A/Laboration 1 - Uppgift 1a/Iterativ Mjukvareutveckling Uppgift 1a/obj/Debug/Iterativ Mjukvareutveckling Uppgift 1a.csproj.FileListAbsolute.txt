@@ -1,0 +1,12 @@
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Iterativ Mjukvareutveckling Uppgift 1a\Iterativ Mjukvareutveckling Uppgift 1a\bin\Debug\Iterativ Mjukvareutveckling Uppgift 1a.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Iterativ Mjukvareutveckling Uppgift 1a\Iterativ Mjukvareutveckling Uppgift 1a\bin\Debug\Iterativ Mjukvareutveckling Uppgift 1a.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Iterativ Mjukvareutveckling Uppgift 1a\Iterativ Mjukvareutveckling Uppgift 1a\bin\Debug\Iterativ Mjukvareutveckling Uppgift 1a.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Iterativ Mjukvareutveckling Uppgift 1a\Iterativ Mjukvareutveckling Uppgift 1a\obj\Debug\Iterativ Mjukvareutveckling Uppgift 1a.csprojResolveAssemblyReference.cache
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Iterativ Mjukvareutveckling Uppgift 1a\Iterativ Mjukvareutveckling Uppgift 1a\obj\Debug\Iterativ Mjukvareutveckling Uppgift 1a.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Iterativ Mjukvareutveckling Uppgift 1a\Iterativ Mjukvareutveckling Uppgift 1a\obj\Debug\Iterativ Mjukvareutveckling Uppgift 1a.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1a\Iterativ Mjukvareutveckling Uppgift 1a\bin\Debug\Iterativ Mjukvareutveckling Uppgift 1a.exe.config
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1a\Iterativ Mjukvareutveckling Uppgift 1a\obj\Debug\Iterativ Mjukvareutveckling Uppgift 1a.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1a\Iterativ Mjukvareutveckling Uppgift 1a\obj\Debug\Iterativ Mjukvareutveckling Uppgift 1a.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1a\Iterativ Mjukvareutveckling Uppgift 1a\bin\Debug\Iterativ Mjukvareutveckling Uppgift 1a.exe
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1a\Iterativ Mjukvareutveckling Uppgift 1a\bin\Debug\Iterativ Mjukvareutveckling Uppgift 1a.pdb
+C:\Users\Pavic\Desktop\GitHubCSharp\1dv402-laborationer\Laboration 1 - Uppgift 1a\Iterativ Mjukvareutveckling Uppgift 1a\obj\Debug\Iterativ Mjukvareutveckling Uppgift 1a.csprojResolveAssemblyReference.cache
